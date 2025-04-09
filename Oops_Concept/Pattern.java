@@ -1,3 +1,4 @@
+package Oops_Concept;
 class InnerPattern {
         public int missingNumber(int []arr, int n){
             int sum = 0;
