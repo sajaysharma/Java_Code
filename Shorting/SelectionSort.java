@@ -1,4 +1,4 @@
-// package Shorting;
+
 public class SelectionSort {
     public static void main(String[] args) {
         int arr[] = {3, 6, 2, 9, 1, 7};
