@@ -1,4 +1,4 @@
-package Other_Concept;
+
 
 import java.util.Scanner;
 
