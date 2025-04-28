@@ -11,7 +11,7 @@ public class Exception_03 {
                 throw new Age("Invalid Age");
             }
         } catch (Age e) {
-            // TODO: handle exception
+            
             System.out.println("Age Exception" + e);
         }
     }
